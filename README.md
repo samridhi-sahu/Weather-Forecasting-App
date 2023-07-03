@@ -15,7 +15,8 @@ To run this weather forecasting web application locally, follow these steps:
 1. Clone the repository: git clone https://github.com/samridhi-sahu/Weather-Forecasting-App.git
 2. Open the project directory: cd Weather-Forecasting-App
 3. Obtain an API key from the OpenWeather website by signing up for an account and creating a new API key.
-4. In the js/app.js file, replace 'API_KEY' with your actual API key obtained from OpenWeather: const apiKey = 'YOUR_API_KEY';
-5. Open the index.html file in your web browser.
-6. Enter the name of the city for which you want to fetch the weather information and click the "Search" button.
-7. The application will display the current temperature, humidity, and wind speed for the specified city.
+4. In the js/app.js file, replace 'API_KEY' with your actual API key obtained from OpenWeather:
+   const apiKey = 'YOUR_API_KEY';
+6. Open the index.html file in your web browser.
+7. Enter the name of the city for which you want to fetch the weather information and click the "Search" button.
+8. The application will display the current temperature, humidity, and wind speed for the specified city.
